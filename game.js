@@ -25,7 +25,7 @@ const numSides = 6;
 
 // Add rotation properties
 let rotationAngle = 0;
-const rotationSpeed = 0.005; // Adjust speed as needed
+const rotationSpeed = 0.050; // Adjust speed as needed
 
 // Modify the hexagon points calculation function
 function calculateHexagonPoints() {
